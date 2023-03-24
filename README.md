@@ -4,8 +4,8 @@ Build secure web applications
 
 Technology:
  + Frontend: HTML, CSS, JavaScript, Boostrap 4
- + Backend: Java Spring MVC
- + Database: Microsoft SQL Server, JDBC
+ + Backend: Java Spring MVC, JDBC
+ + Database: Microsoft SQL Server
  + Web server: Apache Tomcat
 
 
