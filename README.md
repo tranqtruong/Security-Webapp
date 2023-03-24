@@ -1,17 +1,17 @@
 # Security-Webapp
 Build secure web applications
 
-- Công nghệ sử dụng:
+Công nghệ sử dụng:
  + Frontend: HTML, CSS, JavaScript, Boostrap 4
  + Backend: Java Spring MVC
  + Database: Microsoft SQL Server, JDBC
  + Web server: Apache Tomcat
 
-- Mô tả chức năng:
+Mô tả chức năng:
  + Login, change password
  + CRUD nhân viên, sinh viên
 
-- Security website:
+Security website:
  + Phòng chống SQLi, XSS, Bruteforce
  + Tạo chứng chỉ tự ký cho website
  + Mã hóa dữ liệu phía server, database
