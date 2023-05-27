@@ -11,7 +11,7 @@ Technology:
 
 Description:
  + Login, change password
- + CRUD nhân viên, sinh viên
+ + CRUD staff, students
 
 
 Security:
