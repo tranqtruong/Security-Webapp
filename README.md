@@ -15,7 +15,8 @@ Description:
 
 
 Security:
- + Prevention SQLi, XSS, Bruteforce
+ + Authenticate non-robot login
+ + Prevention SQLi, XSS, Bruteforce(account lock when wrong login more than 3 times)
  + Generate self-signed https certificate for website
  + Encrypt data on the server side, database
  + Deploying Aplication firewall Modsecurity on Apache
