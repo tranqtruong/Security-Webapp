@@ -15,10 +15,10 @@ Description:
 
 
 Security:
- + Phòng chống SQLi, XSS, Bruteforce
- + Tạo chứng chỉ tự ký cho website
- + Mã hóa dữ liệu phía server, database
- + Triển khai Aplication firewall Modsecurity trên Apache
+ + Prevention SQLi, XSS, Bruteforce
+ + Generate self-signed https certificate for website
+ + Encrypt data on the server side, database
+ + Deploying Aplication firewall Modsecurity on Apache
  
  
  Details: Report.pdf
